@@ -1,0 +1,14 @@
+{
+	"ignore": ["node_modules", ".git", "client/**/*.*", "locales/**/*.*"],
+
+	"__exec": "nodejs-dashboard node server/dev.js",
+
+	"verbose": false,
+
+	"watch": [
+		"server",
+		"config.js"
+	],
+
+	"ext": "js json"
+}
