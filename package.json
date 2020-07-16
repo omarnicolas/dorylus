@@ -54,7 +54,7 @@
     "helmet": "^3.16.0",
     "helmet-crossdomain": "^0.3.0",
     "ioredis": "^4.9.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "method-override": "^3.0.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
