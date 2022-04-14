@@ -30,7 +30,7 @@
   "homepage": "https://github.com/omarnicolas/dorylus#readme",
   "dependencies": {
     "agenda": "^2.0.2",
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.19.0",
     "chai": "^4.2.0",
