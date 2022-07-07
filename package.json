@@ -57,7 +57,7 @@
     "lodash": "^4.17.11",
     "method-override": "^3.0.0",
     "mkdirp": "^0.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.5.4",
     "mongoose-auto-increment": "^5.0.1",
     "morgan": "^1.9.1",
