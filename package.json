@@ -82,7 +82,7 @@
     "winston-daily-rotate-file": "^3.9.0",
     "winston-graylog2": "^2.1.2",
     "winston-loggly-bulk": "^3.0.1",
-    "winston-logsene": "^2.0.6",
+    "winston-logsene": "^2.1.1",
     "winston-logzio": "^4.0.2",
     "winston-papertrail": "^1.0.5"
   },
